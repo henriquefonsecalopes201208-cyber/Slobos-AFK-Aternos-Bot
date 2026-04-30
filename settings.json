@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DualCraft-7zqL.aternos.me:40819",
+    "port": 40819,
     "version": "",
     "try-creative": false
   },
