@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DualCraft-7zqL.aternos.me:40819",
+    "ip": "DualCraft-7zqL.aternos.me",
     "port": 40819,
     "version": "",
     "try-creative": false
